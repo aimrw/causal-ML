@@ -1,2 +1,4 @@
 # causal-ML
-Project for Causality with Machine Learning Class. Used Double Machine Learning Estimator (AIPW) to determine the effect (ATE) of tax reform on firm investment
+Final project for Causality with Machine Learning Course.
+We used Double Machine Learning Estimator (AIPW) to determine the effect (ATE) of tax reform on firm investment.
+Group Project with Jingci Zhu.
